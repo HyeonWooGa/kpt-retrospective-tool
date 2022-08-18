@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/kpt-board/static/js/main.2b6b575d.js",
-    "index.html": "/kpt-board/index.html",
-    "main.2b6b575d.js.map": "/kpt-board/static/js/main.2b6b575d.js.map"
+    "main.js": "/kpt-retrospective-tool/static/js/main.73fa7905.js",
+    "index.html": "/kpt-retrospective-tool/index.html",
+    "main.73fa7905.js.map": "/kpt-retrospective-tool/static/js/main.73fa7905.js.map"
   },
   "entrypoints": [
-    "static/js/main.2b6b575d.js"
+    "static/js/main.73fa7905.js"
   ]
 }
