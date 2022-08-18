@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/kpt-board/static/js/main.2b6b575d.js",
+    "index.html": "/kpt-board/index.html",
+    "main.2b6b575d.js.map": "/kpt-board/static/js/main.2b6b575d.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.2b6b575d.js"
+  ]
+}
