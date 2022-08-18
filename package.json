@@ -51,5 +51,5 @@
     "@types/styled-components": "^5.1.25",
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://hyeonwooga.github.io/kpt-board"
+  "homepage": "https://hyeonwooga.github.io/kpt-retrospective-tool"
 }
