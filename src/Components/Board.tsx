@@ -13,6 +13,7 @@ const Form = styled.form`
   height: 40px;
   input {
     width: 90%;
+    padding: 0 15px;
   }
   button {
     width: 10%;
