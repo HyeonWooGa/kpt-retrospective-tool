@@ -86,7 +86,7 @@ const Board = ({ toDos, boardId }: IBoardProps) => {
         <input
           {...register("toDo", { required: true })}
           type="text"
-          placeholder={`Add task on ${boardId}`}
+          placeholder={`${boardId} 입력하세요`}
         />
         <button>입력</button>
       </Form>
